@@ -1,5 +1,5 @@
 document.querySelector(".spin").addEventListener("click", function(){
-    document.querySelector("header").classList.toggle("helicoptor");
+    document.querySelector("body").classList.toggle("helicoptor");
 });
 
 document.querySelector(".dark").addEventListener("click", function(){
