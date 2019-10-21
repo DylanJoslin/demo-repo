@@ -14,7 +14,12 @@ header{
     transition: 10s;
 }
 
+nav{
+    width: 25%;
+    margin: 0 auto;
+}
+
 .flex{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
