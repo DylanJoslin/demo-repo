@@ -1,0 +1,15 @@
+header{
+    margin: 0 auto;
+    text-align: center;
+}
+
+.darkmode{
+    background-color: rgb(43, 42, 42);
+    color: #ffffff;
+}
+
+
+.helicoptor{
+    transform: rotate(36000000deg);
+    transition: 10000s;
+}
