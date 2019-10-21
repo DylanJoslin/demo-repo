@@ -13,3 +13,8 @@ header{
     transform: rotate(36000deg);
     transition: 10s;
 }
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
